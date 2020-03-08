@@ -1,0 +1,17 @@
+{
+  "name": "@ccpm/cmocha",
+  "version": "1.0.0",
+  "description": "C testing tool in mocha style",
+  "main": "index.js",
+  "author": "toyobayashi",
+  "license": "MIT",
+  "keywords": ["mocha"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toyobayashi/cmocha.git"
+  },
+  "homepage": "https://github.com/toyobayashi/cmocha#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
