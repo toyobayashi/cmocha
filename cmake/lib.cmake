@@ -16,10 +16,6 @@ if(WIN32 AND MSVC)
     UNICODE
     _UNICODE
   )
-else()
-  if(CCPM_BUILD_DLL)
-    target_compile_options(${LIB_NAME} PRIVATE -fPIC)
-  endif()
 endif()
 
 target_include_directories(${LIB_NAME}

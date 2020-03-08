@@ -1,6 +1,6 @@
 {
   "name": "@ccpm/cmocha",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "C testing tool in mocha style",
   "main": "index.js",
   "author": "toyobayashi",
